@@ -5,6 +5,7 @@ function Login() {
         <div>
             <h1>Login</h1>
             {/* Hier kannst du den Login-Formular oder andere Inhalte für die Login-Seite einfügen */}
+
         </div>
     );
 }
